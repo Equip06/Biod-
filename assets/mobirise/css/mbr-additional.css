@@ -5184,6 +5184,9 @@ a {
   padding-bottom: 2rem;
   background-color: #bed3f9;
 }
+.cid-sci0NLFjoj .mbr-text {
+  text-align: left;
+}
 .cid-scC8lstu8J {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -5196,8 +5199,8 @@ a {
   margin: 0 auto;
 }
 .cid-scFQvpyjqv {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-scFQvpyjqv .mbr-overlay {
@@ -5205,28 +5208,28 @@ a {
 }
 @media (min-width: 992px) {
   .cid-scFQvpyjqv .carousel {
-    min-height: 800px;
+    min-height: 400px;
   }
   .cid-scFQvpyjqv .carousel img {
-    max-height: 800px;
+    max-height: 400px;
     object-fit: contain;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-scFQvpyjqv .carousel {
-    min-height: 520px;
+    min-height: 260px;
   }
   .cid-scFQvpyjqv .carousel img {
-    max-height: 520px;
+    max-height: 260px;
     object-fit: contain;
   }
 }
 @media (max-width: 767px) {
   .cid-scFQvpyjqv .carousel {
-    min-height: 440px;
+    min-height: 220px;
   }
   .cid-scFQvpyjqv .carousel img {
-    max-height: 440px;
+    max-height: 220px;
     object-fit: contain;
   }
   .cid-scFQvpyjqv .container .carousel-control {
