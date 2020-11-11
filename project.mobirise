@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BIODISEÑO",
-    "currentPage": "entregable8.html",
+    "currentPage": "Entregable9.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -67,7 +67,7 @@
     "gdpr": false,
     "uniqCompNum": 445,
     "versionPublish": "5.2.0",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "screenshot": "screenshot.png",
     "witsec-white-label": false,
     "cookiesAlert": false,
